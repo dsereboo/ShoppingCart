@@ -1,5 +1,5 @@
 # ShoppingCart
-Boostrap projectnshopping-cart
+Boostrap project shopping-cart
 
 
 ## Demo
